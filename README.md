@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Innocent Wamalwa Barasa
+- 👋 Hi, Innocent Wamalwa Barasa
 - 🌱 I’m a full stack Web Developer
 - 📫 How to reach me ... @ibwamalwa254@gmail.com
-- 😄 Pronouns: ... Wamalwa
+- 😄 Pronouns: ... He
 - ⚡ Fun fact: ...
 
 <!---
